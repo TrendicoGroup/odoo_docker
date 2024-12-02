@@ -16,6 +16,7 @@ This repository provides a boilerplate for deploying Odoo using Docker. It simpl
 Before you begin, ensure you have the following installed on your machine:
 
 [Docker](https://www.docker.com/get-started)
+
 [Docker Compose](https://docs.docker.com/compose/install/)
 ## Getting Started
 
