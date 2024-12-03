@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# IDE workspace files
+.idea/
+.vscode/
+*.code-workspace
+*.iml
+*.iws
+*.ipr
+.code-workspace
